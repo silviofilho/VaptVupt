@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13B3E111-E0AE-469F-AF3E-BFD7DDF47F92</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VaptVupt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F321D7B2-3C38-407E-8539-E7E2A7A24D06</key>
+		<string>http://dev.pixidea.com.br/svnpix/segplan/vaptvupt</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VaptVupt/vaptvupt.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F321D7B2-3C38-407E-8539-E7E2A7A24D06</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>F321D7B2-3C38-407E-8539-E7E2A7A24D06</key>
+		<string>http://dev.pixidea.com.br/svnpix/segplan</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://dev.pixidea.com.br/svnpix/segplan/vaptvupt/VaptVupt/VaptVupt.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F321D7B2-3C38-407E-8539-E7E2A7A24D06</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F321D7B2-3C38-407E-8539-E7E2A7A24D06</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vaptvupt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
